@@ -1,0 +1,1544 @@
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+:root {
+    view-transition-name: root;
+}
+html {
+    display: block;
+}
+.css-iovbqq-root {
+    border: 1px solid rgb(213, 221, 227);
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.css-5wu2yt-rootLogos img:nth-of-type(1) {
+    min-height: 30px;
+}
+.css-19b8xkn-rootLogosSeparator {
+    border-left: 1px solid rgb(146, 142, 156);
+    margin: 0px 20px;
+}
+.css-5wu2yt-rootLogos img:nth-of-type(2) {
+    min-height: 20px;
+}
+.css-14snghv-container {
+    position: relative;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.css-rdu3av-paper {
+    background-color: rgb(255, 255, 255);
+    color: rgba(0, 0, 0, 0.87);
+    background-image: var(--Paper-overlay);
+    box-sizing: border-box;
+    box-shadow: unset;
+    transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1);
+    border-radius: 8px 8px 0px 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+}
+.css-1fis58l-topBarContainer {
+    min-height: 80px;
+    width: 100%;
+    overflow: hidden;
+    background-color: rgb(41, 27, 79);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    display: flex;
+    align-content: center;
+    padding-bottom: 8px;
+}
+.css-1dbd7h4-imageContainer {
+    width: 50px;
+    height: 50px;
+    margin: 9px 15px 0px 12px;
+    border-radius: 8px;
+    border: 4px solid white;
+    overflow: hidden;
+    align-content: center;
+    flex-shrink: 0;
+}
+.css-sgz51z-image {
+    height: auto;
+    width: 50px;
+}
+.css-m0nlfx-charityName {
+    margin: 0px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    cursor: default;
+    pointer-events: none;
+    padding-top: 10px;
+    text-shadow: rgb(0, 0, 0) 2px 2px 4px;
+    color: rgb(255, 255, 255);
+    padding-right: 5px;
+}
+.css-1qsvybm-contentWrapper {
+    height: 474px;
+    overflow-y: hidden;
+    position: relative;
+}
+.css-1xwmmb5-container {
+    display: flex;
+    flex-direction: row;
+    height: 24px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.css-1lgwhlu-stage-active {
+    cursor: default;
+    pointer-events: none;
+    min-width: 70px;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+    flex-basis: 300px;
+    text-align: center;
+    background-color: rgb(95, 76, 148);
+}
+.css-72qdf2-stage {
+    cursor: default;
+    pointer-events: none;
+    min-width: 70px;
+    background-color: rgb(218, 223, 229);
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+    color: rgb(255, 255, 255);
+    flex-basis: 300px;
+    text-align: center;
+}
+.css-1hqqidj-contentContainer {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    height: calc(100% - 72px);
+}
+.css-1n025lw-form {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 220px;
+    gap: 12px;
+}
+.css-nvtbxk-inputButtonsWrapper {
+    width: 100%;
+}
+.css-xegehu-fieldHeader {
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: unset;
+    margin-bottom: 4px;
+    width: 100%;
+    text-align: left;
+    color: rgb(170, 170, 170);
+}
+.css-120ul90-optionWrapper.MuiFormControl-root {
+    display: flex;
+    margin: 0px auto;
+}
+.css-120ul90-optionWrapper {
+    display: inline-flex;
+    flex-direction: column;
+    position: relative;
+    min-width: 0px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    vertical-align: top;
+    width: 100%;
+}
+.css-6175j8 {
+    display: inline-flex;
+    flex-direction: column;
+    position: relative;
+    min-width: 0px;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    vertical-align: top;
+    width: 100%;
+}
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.css-f7t77y .MuiOutlinedInput-root {
+    padding-right: 65px;
+}
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.css-f7t77y .MuiAutocomplete-inputRoot {
+    padding-right: 56px;
+}
+.css-f7t77y .MuiOutlinedInput-root.MuiInputBase-sizeSmall {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+}
+.MuiAutocomplete-hasPopupIcon.css-f7t77y .MuiOutlinedInput-root, .MuiAutocomplete-hasClearIcon.css-f7t77y .MuiOutlinedInput-root {
+    padding-right: 39px;
+}
+.MuiAutocomplete-hasPopupIcon.css-f7t77y .MuiAutocomplete-inputRoot, .MuiAutocomplete-hasClearIcon.css-f7t77y .MuiAutocomplete-inputRoot {
+    padding-right: 30px;
+}
+.css-f7t77y .MuiOutlinedInput-root {
+    padding: 9px;
+}
+.css-a9ceiy-inputRoot {
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 0.00938em;
+    color: rgba(0, 0, 0, 0.87);
+    box-sizing: border-box;
+    cursor: text;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    border-radius: 5px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-family: Roboto;
+    line-height: 1.1876em;
+}
+.css-xkpa2e-icon {
+    width: 22px;
+    max-height: 22px;
+    margin-right: 8px;
+}
+.css-f7t77y .MuiOutlinedInput-root.MuiInputBase-sizeSmall .MuiAutocomplete-input {
+    padding: 2.5px 4px 2.5px 8px;
+}
+.css-f7t77y .MuiOutlinedInput-root .MuiAutocomplete-input {
+    padding: 7.5px 4px 7.5px 5px;
+}
+.css-f7t77y .MuiAutocomplete-inputRoot .MuiAutocomplete-input {
+    width: 0px;
+    min-width: 30px;
+}
+.css-120ul90-optionWrapper.MuiFormControl-root .MuiInputBase-input {
+    font-size: 13px;
+    line-height: 15px;
+    padding-left: 1px;
+    font-weight: 500;
+}
+.css-f7t77y .MuiAutocomplete-input {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    text-overflow: ellipsis;
+    opacity: 0;
+}
+.css-f7t77y .MuiAutocomplete-input {
+    opacity: 1;
+    border: none;
+}
+.css-1w6rtrn {
+    font-style: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    font-stretch: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    font-optical-sizing: inherit;
+    font-size-adjust: inherit;
+    font-kerning: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 0px;
+    box-sizing: content-box;
+    background: none;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 100%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    font-size: 14px;
+    height: 1.1876em;
+    padding: 8.5px 0px;
+}
+.css-1w6rtrn {
+    color: black !important;
+    visibility: visible !important;
+}  
+.css-f7t77y .MuiOutlinedInput-root .MuiAutocomplete-endAdornment {
+    right: 9px;
+}
+.css-mxlkbn {
+    position: absolute;
+    right: 0px;
+    top: 50%;
+    transform: translate(0px, -50%);
+}
+.css-o9we7g {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 0.54);
+    visibility: hidden;
+    outline: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    margin: 0px -2px 0px 0px;
+    text-decoration: none;
+    flex: 0 0 auto;
+    border-radius: 50%;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 4px;
+}
+.css-1ti7yxa {
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    flex-shrink: 0;
+    fill: currentcolor;
+    font-size: 1.25rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.css-119nmfq {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 0.54);
+    outline: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    margin: 0px -2px 0px 0px;
+    text-decoration: none;
+    flex: 0 0 auto;
+    border-radius: 50%;
+    transition: background-color 150ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 2px;
+}
+.css-10vyf6v {
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    flex-shrink: 0;
+    fill: currentcolor;
+    font-size: 1.5rem;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.css-a9ceiy-inputRoot .MuiOutlinedInput-notchedOutline, .css-a9ceiy-inputRoot:hover .MuiOutlinedInput-notchedOutline, .css-a9ceiy-inputRoot.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(252, 212, 43);
+    border-radius: 4px;
+}
+.css-igs3ac {
+    text-align: left;
+    position: absolute;
+    inset: -5px 0px 0px;
+    margin: 0px;
+    padding: 0px 8px;
+    pointer-events: none;
+    border-radius: inherit;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    min-width: 0%;
+    border-color: rgba(0, 0, 0, 0.23);
+}
+.css-gpjuor {
+    float: unset;
+    width: auto;
+    line-height: 11px;
+    overflow: hidden;
+    padding: 0px;
+    transition: width 150ms cubic-bezier(0, 0, 0.2, 1);
+}
+.css-1v6b27o-inputWrapper {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+}
+.css-xegehu-fieldHeader {
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: unset;
+    margin-bottom: 4px;
+    width: 100%;
+    text-align: left;
+    color: rgb(170, 170, 170);
+}
+.css-kt6xzp-amountBox {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    align-items: flex-start;
+    border: 1px solid rgba(0, 0, 0, 0.27);
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 8px;
+    width: 100%;
+}
+.css-1lrwxa1-input {
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 0.00938em;
+    color: rgba(0, 0, 0, 0.87);
+    box-sizing: border-box;
+    cursor: text;
+    -webkit-box-align: center;
+    align-items: center;
+    font-family: Roboto;
+    line-height: 1.1876em;
+    position: relative;
+    text-align: left;
+    max-width: 152px;
+    display: inline-block;
+    padding-left: 8px;
+}
+.css-14pi6y-mainCurrencyInput {
+    font-style: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    font-stretch: inherit;
+    line-height: inherit;
+    font-optical-sizing: inherit;
+    font-size-adjust: inherit;
+    font-kerning: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 0px;
+    box-sizing: content-box;
+    background: none;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 100%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    height: 1.1876em;
+    text-align: left;
+    font-size: 22px;
+    font-family: Roboto;
+    padding: 0px !important;
+}
+.css-tmu8te-subPrice {
+    color: rgb(134, 144, 159);
+    padding-right: 0px;
+    font-size: 14px;
+    max-width: 152px;
+    margin-right: 8px;
+    overflow: hidden;
+    text-align: left;
+    width: 100%;
+    padding-left: 8px;
+}
+.css-1l76ifn-swapBox {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: 0px 8px;
+    height: 100%;
+    cursor: pointer;
+}
+.css-xmvlmk-activeCurrency {
+    font-size: 12px;
+}
+.css-1glwu23-iconExchangeWrapper {
+    width: 16px;
+    height: 16px;
+    background: rgb(255, 255, 255);
+    border: 1px solid rgb(218, 223, 229);
+    box-sizing: border-box;
+    border-radius: 50%;
+    display: flex;
+    color: rgb(134, 144, 159);
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-size: 12px;
+    cursor: pointer;
+    z-index: 999;
+}
+svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
+    overflow: visible;
+    box-sizing: content-box;
+}
+.css-1c9z35a-iconExchange {
+    transform: rotate(90deg);
+    font-size: 8px;
+}
+.svg-inline--fa {
+    display: var(--fa-display, inline-block);
+    height: 1em;
+    overflow: visible;
+    vertical-align: -0.125em;
+}
+.css-1ug3wfl-calculatedCurrency {
+    font-size: 12px;
+    color: rgb(134, 144, 159);
+}
+.css-1eir8xa-container {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 48px;
+    left: 0px;
+}
+.css-cmpokg-ButtonGroup {
+    display: inline-flex;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px;
+    width: 100%;
+    height: 100%;
+    flex-direction: row-reverse;
+    border-radius: 0px 0px 5px 5px;
+    background: rgb(41, 27, 79);
+}
+.css-11xjwq6-root-root-root-rightButton.MuiButton-contained {
+    color: rgb(255, 255, 255);
+    padding-left: 6px;
+    padding-right: 20px;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    border-right-width: 0px;
+    border-radius: 0px 5px 5px 0px !important;
+}
+.css-cmpokg-ButtonGroup .MuiButtonGroup-firstButton, .css-cmpokg-ButtonGroup .MuiButtonGroup-middleButton {
+    border-color: rgb(25, 28, 32);
+}
+.css-cmpokg-ButtonGroup .MuiButtonGroup-firstButton, .css-cmpokg-ButtonGroup .MuiButtonGroup-middleButton {
+    border-right: 1px solid rgb(189, 189, 189);
+}
+.css-cmpokg-ButtonGroup .MuiButtonGroup-firstButton, .css-cmpokg-ButtonGroup .MuiButtonGroup-middleButton {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+.css-cmpokg-ButtonGroup .MuiButtonGroup-grouped {
+    min-width: 40px;
+    box-shadow: none;
+}
+.css-11xjwq6-root-root-root-rightButton {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.75;
+    letter-spacing: 0.02857em;
+    text-transform: uppercase;
+    min-width: 64px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px;
+    --variant-textColor: #24292e;
+    --variant-outlinedColor: #24292e;
+    --variant-outlinedBorder: rgba(36, 41, 46, 0.5);
+    --variant-containedColor: #fff;
+    --variant-containedBg: #24292e;
+    width: 100%;
+    font-size: 13px;
+    color: red;
+    background-color: rgb(41, 27, 79);
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 5px;
+    outline: 0px;
+    margin: 0px;
+    text-decoration: none;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 8px 6px;
+    flex: 1 1 0%;
+}
+/* Color change of SVG inside the buttons on hover */
+.css-11xjwq6-root-root-root-rightButton:hover svg,
+.css-1pav7f1-root-root-root-leftButton:hover svg {
+  color: rgb(246, 213, 83) !important;
+  transition: fill 0.3s ease-in-out !important;
+}
+.css-11r3ich-iconWrapRight {
+    margin-left: 10px;
+    color: rgb(95, 76, 148);
+}
+.css-1pav7f1-root-root-root-leftButton.MuiButton-contained {
+    background: rgb(41, 27, 79);
+    color: rgb(255, 255, 255);
+    justify-content: left;
+    padding-left: 20px;
+    border-right: 1px solid rgb(189, 189, 189);
+    border-radius: 5px 0px 0px 5px !important;
+}
+.css-cmpokg-ButtonGroup .MuiButtonGroup-lastButton, .css-cmpokg-ButtonGroup .MuiButtonGroup-middleButton {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.css-cmpokg-ButtonGroup .MuiButtonGroup-grouped {
+    min-width: 40px;
+    box-shadow: none;
+}
+.css-1pav7f1-root-root-root-leftButton {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    line-height: 1.75;
+    letter-spacing: 0.02857em;
+    text-transform: uppercase;
+    min-width: 64px;
+    color: var(--variant-containedColor);
+    background-color: var(--variant-containedBg);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 1px -2px, rgba(0, 0, 0, 0.14) 0px 2px 2px 0px, rgba(0, 0, 0, 0.12) 0px 1px 5px 0px;
+    --variant-textColor: #24292e;
+    --variant-outlinedColor: #24292e;
+    --variant-outlinedBorder: rgba(36, 41, 46, 0.5);
+    --variant-containedColor: #fff;
+    --variant-containedBg: #24292e;
+    width: 100%;
+    font-size: 13px;
+    outline: 0px;
+    margin: 0px;
+    text-decoration: none;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    border-radius: 5px;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 8px 6px;
+    flex: 1 1 0%;
+}
+.css-oyxwus-iconWrapLeft {
+    margin-right: 10px;
+    color: rgb(95, 76, 148);
+}
+.css-g7g928-contentContainer {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 100%;
+}
+.css-1nqx2w-header {
+    margin: 0px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1.25rem;
+    line-height: 1.6;
+    letter-spacing: 0.0075em;
+    font-weight: bold;
+}
+.css-n8uurg-gridContainer {
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: wrap;
+    margin-left: -8px;
+    width: 220px;
+    padding: 0px;
+    margin-top: 20px;
+}
+.css-7jn91z-poweredContainer {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 36px;
+    border-width: 1px 0px 0px;
+    border-right-style: initial;
+    border-bottom-style: initial;
+    border-left-style: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image: initial;
+    border-radius: 0px 0px 8px 8px;
+    width: 100%;
+    border-top-style: solid;
+    border-top-color: rgb(213, 221, 227);
+    margin: 0px;
+    text-decoration: none;
+    box-sizing: border-box;
+    color: rgb(146, 142, 156);
+    font-size: 12px;
+    background-color: rgb(240, 244, 248);
+}
+.css-oy3ntg-powerByContainer {
+    margin-left: 54px;
+    width: calc(100% - 108px);
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-52d10e-poweredLogo {
+    max-height: 20px;
+    margin-left: 6px;
+}
+.css-g3qnco-button-text-button-text-helpButton {
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    letter-spacing: 0.02857em;
+    min-width: 64px;
+    --variant-textColor: #24292e;
+    --variant-outlinedColor: #24292e;
+    --variant-outlinedBorder: rgba(36, 41, 46, 0.5);
+    --variant-containedColor: #fff;
+    --variant-containedBg: #24292e;
+    line-height: 24px;
+    box-shadow: none;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    height: 26px;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    text-transform: unset !important;
+    color: rgb(146, 142, 156) !important;
+    outline: 0px;
+    margin: 0px;
+    text-decoration: none;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    flex: 1 1 0%;
+    border-radius: 5px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    gap: 2px;
+    background: transparent !important;
+    padding: 6px 9px !important;
+}
+.css-5wu2yt-rootLogos {
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 30px;
+    left: 30px;
+}
+svg[Attributes Style] {
+    width: 10;
+    height: 10;
+    fill: none;
+}
+.css-4onvs3-icon {
+    margin-right: 10px;
+}
+.css-w0pj6f {
+    overflow: hidden;
+    pointer-events: none;
+    position: absolute;
+    z-index: 0;
+    inset: 0px;
+    border-radius: inherit;
+}
+.css-n8uurg-gridContainer > .MuiGrid-item {
+    padding-left: 8px;
+}
+.css-n8uurg-gridContainer > .MuiGrid-item {
+    padding-top: 8px;
+}
+.css-15j76c0 {
+    box-sizing: border-box;
+    margin: 0px;
+    flex-direction: row;
+    flex-basis: 100%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    max-width: 100%;
+}
+.css-1s50f5r {
+    box-sizing: border-box;
+    margin: 0px;
+    flex-direction: row;
+    flex-basis: 50%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    max-width: 50%;
+}
+.css-1tn9slx-flowButton-outstandingFlowButton {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    line-height: 1.75;
+    letter-spacing: 0.02857em;
+    min-width: 64px;
+    color: var(--variant-textColor);
+    --variant-textColor: #24292e;
+    --variant-outlinedColor: #24292e;
+    --variant-outlinedBorder: rgba(36, 41, 46, 0.5);
+    --variant-containedColor: #fff;
+    --variant-containedBg: #24292e;
+    width: 100%;
+    text-transform: none;
+    font-family: Poppins;
+    font-weight: 600;
+    height: 55px;
+    font-size: 16px;
+    background-color: rgb(246, 213, 83);
+    outline: 0px;
+    margin: 0px;
+    text-decoration: none;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 6px 8px;
+    border-radius: 10px;
+}
+.css-qupi44-flowButton {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    line-height: 1.75;
+    letter-spacing: 0.02857em;
+    min-width: 64px;
+    color: var(--variant-textColor);
+    --variant-textColor: #24292e;
+    --variant-outlinedColor: #24292e;
+    --variant-outlinedBorder: rgba(36, 41, 46, 0.5);
+    --variant-containedColor: #fff;
+    --variant-containedBg: #24292e;
+    width: 100%;
+    height: 45px;
+    text-transform: none;
+    background-color: rgb(230, 237, 242);
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 14px;
+    outline: 0px;
+    margin: 0px;
+    text-decoration: none;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1), box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), border-color 250ms cubic-bezier(0.4, 0, 0.2, 1), color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    padding: 6px 8px;
+    border-radius: 10px;
+}
+.css-9wvnva {
+    width: 100%;
+    margin-left: auto;
+    box-sizing: border-box;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.css-1tsm442-scrollContainer {
+    overflow-y: auto;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0px, 1fr));
+    gap: 0px 4px;
+}
+.css-imdext-checkboxContainer {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-bottom: 2px;
+    grid-column: 1 / span 2;
+}
+.css-imdext-checkboxContainer .MuiCheckbox-root {
+    color: rgb(218, 223, 229);
+    border-radius: 3px;
+    padding: 0px;
+    margin-right: 4px;
+}
+.css-r5s1j3-root-root-root {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    border: 0px;
+    margin: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    padding: 9px;
+    border-radius: 50%;
+    color: rgba(0, 0, 0, 0.6);
+}
+.css-r5s1j3-root-root-root:hover {
+    background-color: rgb(245, 245, 245);
+}
+.css-1m9pwf3 {
+    cursor: inherit;
+    position: absolute;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    padding: 0px;
+    z-index: 1;
+    background-color: #24292e;
+}
+.css-znwa4o-checkboxSquare {
+    width: 16px;
+    height: 16px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-color: rgb(218, 223, 229);
+    border-style: solid;
+    color: rgb(0, 0, 0);
+    font-size: 10px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-b3ly1c-subscriptionText {
+    display: inline-block;
+    color: rgb(45, 46, 49);
+    line-height: 12px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.css-towbdj-root-root-checked-root {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+    outline: 0px;
+    border: 0px;
+    margin: 0px;
+    cursor: pointer;
+    user-select: none;
+    vertical-align: middle;
+    appearance: none;
+    text-decoration: none;
+    padding: 9px;
+    border-radius: 50%;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+
+.css-1cmmx5z-formItem .MuiFormControl-marginDense {
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+.css-hmr0tn-defaultInput {
+    display: inline-flex;
+    flex-direction: column;
+    position: relative;
+    min-width: 0px;
+    padding: 0px;
+    margin: 8px 0px 4px;
+    border: 0px;
+    vertical-align: top;
+    width: 100%;
+}
+.css-hmr0tn-defaultInput .MuiInputLabel-outlined.MuiInputLabel-root {
+    transform: translate(14px, 9px) scale(1);
+    font-size: 14px;
+}
+.css-1x2xqv7:not(.MuiInputLabel-shrink) {
+    transform: translate(14px, 12px) scale(1);
+}
+.css-1x2xqv7.Mui-disabled {
+    color: rgba(0, 0, 0, 0.38);
+}
+.css-1x2xqv7.Mui-error {
+    color: rgb(211, 47, 47);
+}
+.css-1x2xqv7 {
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 0.00938em;
+    display: block;
+    transform-origin: left top;
+    text-overflow: ellipsis;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    pointer-events: none;
+    transform: translate(14px, 16px) scale(1);
+    max-width: calc(100% - 24px);
+    font-family: Roboto;
+    line-height: 1.1876em;
+    padding: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    transition: color 200ms cubic-bezier(0, 0, 0.2, 1), transform 200ms cubic-bezier(0, 0, 0.2, 1), max-width 200ms cubic-bezier(0, 0, 0.2, 1);
+}
+.css-1l59lqc {
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 0.00938em;
+    color: rgba(0, 0, 0, 0.87);
+    box-sizing: border-box;
+    cursor: text;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    border-radius: 5px;
+    padding-right: 14px;
+    font-family: Roboto;
+    line-height: 1.1876em;
+}
+.css-1l59lqc.Mui-disabled {
+    color: rgba(0, 0, 0, 0.38);
+    cursor: default;
+}
+.css-1i2c28l.Mui-disabled {
+    opacity: 1;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0.38);
+}
+.css-cytq4y-autocompleteInput .MuiInputBase-root {
+    height: 32.625px;
+    padding: 3px 39px 6px 6px;
+}
+.css-6zu0np-autocompleteInput .MuiInputBase-root {
+    height: 32.625px;
+    padding: 3px 39px 6px 6px;
+}
+.css-6zu0np-autocompleteInput .MuiOutlinedInput-root {
+    padding: 9px;
+}
+.css-c9b5uv {
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 0.00938em;
+    color: rgba(0, 0, 0, 0.87);
+    box-sizing: border-box;
+    cursor: text;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    position: relative;
+    border-radius: 5px;
+    font-family: Roboto;
+    line-height: 1.1876em;
+}
+.css-cytq4y-autocompleteInput .MuiInputBase-root .MuiInputBase-input {
+    padding-top: 4.5px;
+    padding-bottom: 4.5px;
+}
+.css-6zu0np-autocompleteInput .MuiInputBase-root .MuiInputBase-input {
+    padding-top: 4.5px;
+    padding-bottom: 4.5px;
+}
+.css-6zu0np-autocompleteInput .MuiOutlinedInput-root .MuiAutocomplete-input {
+    padding: 7.5px 4px 7.5px 5px;
+}
+.css-6zu0np-autocompleteInput .MuiAutocomplete-inputRoot .MuiAutocomplete-input {
+    width: 0px;
+    min-width: 30px;
+}
+.css-vg88c7:invalid {
+    box-shadow: none;
+}
+.css-6zu0np-autocompleteInput .MuiAutocomplete-input {
+    opacity: 1;
+}
+.css-6zu0np-autocompleteInput .MuiAutocomplete-input {
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    text-overflow: ellipsis;
+    opacity: 1; /* changed opacity value from 0 to 1 so we can see what we type*/
+}
+.css-10l07r9-formItem-longView .MuiOutlinedInput-input {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 14px;
+}
+.css-vg88c7 {
+    font-style: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    font-stretch: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    font-optical-sizing: inherit;
+    font-size-adjust: inherit;
+    font-kerning: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 0px;
+    box-sizing: content-box;
+    background: none;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 100%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    font-size: 14px;
+    height: 1.1876em;
+    padding: 16.5px 14px;
+}
+.css-1i2c28l:invalid {
+    box-shadow: none;
+}
+.css-hmr0tn-defaultInput .MuiOutlinedInput-input {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 14px;
+}
+.css-1cmmx5z-formItem .MuiOutlinedInput-input {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 14px;
+}
+.css-1l59lqc.Mui-disabled .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(0, 0, 0, 0.26);
+}
+.css-1i2c28l {
+    font-style: inherit;
+    font-variant: inherit;
+    font-weight: inherit;
+    font-stretch: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    font-optical-sizing: inherit;
+    font-size-adjust: inherit;
+    font-kerning: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    letter-spacing: inherit;
+    color: currentcolor;
+    border: 0px;
+    box-sizing: content-box;
+    background: none;
+    margin: 0px;
+    -webkit-tap-highlight-color: transparent;
+    display: block;
+    min-width: 0px;
+    width: 100%;
+    animation-name: mui-auto-fill-cancel;
+    animation-duration: 10ms;
+    font-size: 14px;
+    height: 1.1876em;
+    padding: 16.5px 0px 16.5px 14px;
+}
+.css-hmr0tn-defaultInput fieldset {
+    border-color: rgb(218, 223, 229);
+    border-radius: 3px;
+}
+.css-1cmmx5z-formItem fieldset {
+    border-color: rgb(218, 223, 229);
+    border-radius: 3px;
+}
+.css-10l07r9-formItem-longView fieldset {
+    border-color: rgb(218, 223, 229);
+    border-radius: 3px;
+}
+.css-1pbc52w {
+    float: unset;
+    width: auto;
+    display: block;
+    height: 11px;
+    font-size: 0.75em;
+    visibility: hidden;
+    max-width: 0.01px;
+    overflow: hidden;
+    padding: 0px;
+    transition: max-width 50ms cubic-bezier(0, 0, 0.2, 1);
+    white-space: nowrap;
+}
+.css-1pbc52w > span {
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    opacity: 0;
+    visibility: visible;
+}
+
+/* Focus Style for input label*/
+.css-1i2c28l:-webkit-autofill {
+    border-radius: inherit;
+}
+.css-1i2c28l:-webkit-autofill {
+    animation-duration: 5000s;
+    animation-name: mui-auto-fill;
+}
+.css-1i2c28l:focus {
+    outline: 0px;
+}
+.css-hmr0tn-defaultInput .MuiOutlinedInput-input {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 14px;
+}
+.css-1cmmx5z-formItem .MuiOutlinedInput-input {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 14px;
+}
+.css-cytq4y-autocompleteInput .MuiInputLabel-root {
+    transform: translate(14px, 8px) scale(1);
+    font-size: 14px;
+}
+.css-6zu0np-autocompleteInput .MuiInputLabel-root {
+    transform: translate(14px, 8px) scale(1);
+    font-size: 14px;
+}
+.css-hmr0tn-defaultInput .MuiInputLabel-outlined.MuiInputLabel-shrink {
+    transform: translate(14px, -6px) scale(0.75);
+}
+.css-hmr0tn-defaultInput .MuiInputLabel-outlined.MuiInputLabel-root {
+    transform: translate(14px, 9px) scale(1);
+}
+.css-10l07r9-formItem-longView .MuiInputLabel-outlined.MuiInputLabel-shrink {
+    transform: translate(14px, -6px) scale(0.75);
+    width: 100px;
+    background-color: #fff;
+    padding-left: 5px;
+}
+.css-1cmmx5z-formItem .MuiInputLabel-outlined.MuiInputLabel-shrink {
+    transform: translate(14px, -6px) scale(0.75);
+    width: 100px;
+    background-color: #fff;
+    padding-left: 5px;
+}
+.css-zywb3r .Mui-focused {
+    color: rgb(36, 41, 46);
+}
+.css-zywb3r {
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 0.00938em;
+    display: block;
+    text-overflow: ellipsis;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    transform-origin: left top;
+    z-index: 1;
+    user-select: none;
+    pointer-events: auto;
+    max-width: calc(133% - 32px);
+    transform: translate(14px, 9px) scale(0.75);
+    font-family: Roboto;
+    line-height: 1.1876em;
+    padding: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    transition: color 200ms cubic-bezier(0, 0, 0.2, 1), transform 200ms cubic-bezier(0, 0, 0.2, 1), max-width 200ms cubic-bezier(0, 0, 0.2, 1);    
+}
+
+/* Error div*/
+.css-u7fgeo {
+    display: flex;
+    max-height: 2em;
+    -webkit-box-align: center;
+    align-items: center;
+    white-space: nowrap;
+    color: rgba(0, 0, 0, 0.54);
+    margin-left: 8px;
+}
+
+.css-1tsbva {
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    flex-shrink: 0;
+    fill: currentcolor;
+    font-size: 1.25rem;
+    color: rgb(211, 47, 47);
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.css-10l07r9-formItem-longView {
+    grid-column: 1 / span 2;
+}
+.css-10l07r9-formItem-longView .MuiFormControl-marginDense {
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+.css-cytq4y-autocompleteInput {
+    display: inline-flex;
+    flex-direction: column;
+    position: relative;
+    min-width: 0px;
+    padding: 0px;
+    margin: 8px 0px 4px;
+    border: 0px;
+    vertical-align: top;
+    width: 100%;
+}
+.css-jqqou-checkboxContainer-cleanCheckboxContainer {
+    border-bottom: 0px solid rgba(0, 0, 0, 0.2);
+    margin-bottom: 2px;
+    grid-column: 1 / span 2;
+    padding: 5px 0px 0px;
+}
+.css-jqqou-checkboxContainer-cleanCheckboxContainer .MuiCheckbox-root {
+    color: rgb(218, 223, 229);
+    border-radius: 3px;
+    padding: 0px;
+    margin-right: 4px;
+}
+.css-1figxrx-container-captchaTerms {
+    box-sizing: border-box;
+    font-size: 11px;
+    text-align: center;
+    width: 100%;
+    color: rgb(170, 170, 170);
+    padding: 0px;
+    margin-top: 13px;
+}
+.css-1t9b6g-link {
+    color: rgb(170, 170, 170);
+    text-decoration: unset;
+    white-space: pre-wrap;
+}
+.css-gd7yyz-modalContainer {
+    width: 100%;
+}
+
+/* Input Error style */
+.css-hmr0tn-defaultInput fieldset {
+    border-color: rgb(218, 223, 229);
+}
+.css-1l59lqc.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(36, 41, 46);
+}
+.css-1l59lqc.Mui-error .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(211, 47, 47);
+}
+.css-1l59lqc:hover .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(0, 0, 0, 0.87);
+}
+.css-1l59lqc.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-width: 2px;
+}
+
+/* Crypto Donation Content */
+.css-agn7jh-donationContainerWrapper.MuiContainer-root {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.css-agn7jh-donationContainerWrapper {
+    width: 100%;
+    margin-left: auto;
+    box-sizing: border-box;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    height: calc(100% - 72px);
+    overflow: auto;
+}
+.css-si0k8e-topContainer {
+    -webkit-box-pack: center;
+    place-content: center;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 0px;
+}
+.css-86anb6-topMessageContainer {
+    width: 270px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+}
+.css-ydbbb8-amountText {
+    margin-top: 8px;
+    padding-top: 2px;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+}
+.css-148xxbd-iconEyeTooltip {
+    margin-left: 5px;
+    cursor: pointer;
+    color: rgb(134, 144, 159);
+}
+.css-xutd6g-qrWrapper {
+    position: relative;
+    margin-top: 0px;
+}
+.css-1ehf2rk-iconWrapQR {
+    width: 24px;
+    height: 24px;
+    top: 53px;
+    left: 53px;
+    position: absolute;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    font-size: 12px;
+    border-radius: 4px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-fwvc3b-qr {
+    width: 130px;
+    height: 130px;
+    display: block;
+}
+.css-okmeyj-adresses {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+.css-1hzescm-addressCopyButton {
+    font-weight: 500;
+    line-height: 28px;
+    background: transparent;
+    outline: 0px;
+    border: 1px solid rgb(218, 223, 229);
+    display: flex;
+    margin: 0px auto;
+    width: 252px;
+    cursor: pointer;
+    font-size: 12px;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    border-radius: 5px;
+    height: 35px;
+    color: rgb(45, 46, 50) !important;
+    font-family: Roboto !important;
+}
+.css-11nzy76-iconCopyWrapper {
+    margin-left: 5px;
+    color: rgb(134, 144, 159);
+    height: 20px;
+    width: 20px;
+}
+.css-j4yywg-donationNotes {
+    color: rgb(228, 70, 76);
+    font-size: 10px;
+    line-height: 11px;
+    max-width: 243px;
+    text-align: center;
+    margin: 5px auto;
+}
+
+
+@media (max-width: 599.95px) {
+    .css-5wu2yt-rootLogos {
+        display: none;
+    }
+}
