@@ -1,6 +1,22 @@
 document.addEventListener("DOMContentLoaded", () => {
+    // select scroll button
+    const scrollTopBtn = document.querySelector(".et_pb_scroll_top");
     // Select all btn-trigger-donate buttons
     const donationLinks = document.querySelectorAll(".btn-trigger-donate");
+
+    if (scrollTopBtn) {
+    
+        // Show/hide button on scroll
+        window.addEventListener("scroll", () => {
+            if (window.scrollY > 800) {
+                scrollTopBtn.classList.remove("et-hidden");
+                scrollTopBtn.classList.add("et-visible");
+            } else {
+                scrollTopBtn.classList.remove("et-visible");
+                scrollTopBtn.classList.add("et-hidden");
+            }
+        });
+    }
 
     // Prevent The Giving Block’s script from initializing
     window.__tgbWidgetScriptLoaded = true; // Flag to block The Giving Block’s script
