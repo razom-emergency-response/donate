@@ -1542,3 +1542,41 @@ svg[Attributes Style] {
         display: none;
     }
 }
+
+.MuiAutocomplete-popper {
+    position: absolute;
+    height: 190px;
+    width: 202px;
+    overflow-x: hidden;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-color: rgb(252, 212, 43);
+    background-color: white;
+    padding: 8px;
+    z-index: 1000;
+}
+
+.MuiAutocomplete-option {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.MuiAutocomplete-option:hover {
+    background-color: #f5f5f5;
+}
+
+.MuiAutocomplete-option img {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.MuiButton-containedPrimary {
+    min-width: 20px;
+    padding: 2px;
+    font-size: 12px;
+    font-style: inherit;
+}
