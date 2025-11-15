@@ -169,31 +169,31 @@ document.addEventListener("DOMContentLoaded", () => {
                                 <div class="MuiPaper-root MuiPaper-elevation1 MuiPaper-rounded css-1v5z04l" role="presentation">
                                     <div class="MuiList-root MuiList-padding css-1kty9z2">
                                         <div role="option" id=":r0:-option-0" class="MuiAutocomplete-option">
-                                            <img src="img/bitcoin-logo.png" alt="btc" class="css-xkpa2e-icon" style="margin-right: 8px;">
+                                            <img src="../assets/images/bitcoin-logo.png" alt="btc" class="css-xkpa2e-icon" style="margin-right: 8px;">
                                             Bitcoin (BTC)
                                         </div>
                                         <div role="option" id=":r0:-option-1" class="MuiAutocomplete-option">
-                                            <img src="img/bnb-logo.png" alt="eth" class="css-xkpa2e-icon" style="margin-right: 8px;">
+                                            <img src="../assets/images/bnb-logo.png" alt="bnb" class="css-xkpa2e-icon" style="margin-right: 8px;">
                                             Binance (BNB)
                                         </div>
                                         <div role="option" id=":r0:-option-2" class="MuiAutocomplete-option">
-                                            <img src="img/ethereum-logo.png" alt="aave" class="css-xkpa2e-icon" style="margin-right: 8px;">
+                                            <img src="../assets/images/ethereum-logo.png" alt="eth" class="css-xkpa2e-icon" style="margin-right: 8px;">
                                             Ethereum (ETH)
                                         </div>
                                         <div role="option" id=":r0:-option-3" class="MuiAutocomplete-option">
-                                            <img src="img/solana-logo.webp" alt="ali" class="css-xkpa2e-icon" style="margin-right: 8px;">
+                                            <img src="../assets/images/solana-logo.webp" alt="sol" class="css-xkpa2e-icon" style="margin-right: 8px;">
                                             Solana (SOL)
                                         </div>
                                         <div role="option" id=":r0:-option-4" class="MuiAutocomplete-option">
-                                            <img src="img/usdc-logo.png" alt="usdc" class="css-xkpa2e-icon" style="margin-right: 8px;">
+                                            <img src="../assets/images/usdc-logo.png" alt="usdc" class="css-xkpa2e-icon" style="margin-right: 8px;">
                                             USD Coin (USDC) ERC-20
                                         </div>
                                         <div role="option" id=":r0:-option-5" class="MuiAutocomplete-option">
-                                            <img src="img/tether-logo.webp" alt="ankr" class="css-xkpa2e-icon" style="margin-right: 8px;">
+                                            <img src="../assets/images/tether-logo.webp" alt="usdt" class="css-xkpa2e-icon" style="margin-right: 8px;">
                                             Tether (USDT) ERC-20
                                         </div>
                                         <div role="option" id=":r0:-option-6" class="MuiAutocomplete-option">
-                                            <img src="img/xrp-logo.png" alt="ankr" class="css-xkpa2e-icon" style="margin-right: 8px;">
+                                            <img src="../assets/images/xrp-logo.png" alt="xrp" class="css-xkpa2e-icon" style="margin-right: 8px;">
                                             XRP (XRP)
                                         </div>
                                     </div>
@@ -760,7 +760,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 class="css-1ehf2rk-iconWrapQR"
                 /><img
                 class="css-fwvc3b-qr"
-                src="../assets/images/qr-code.png"
+                src="../assets/images/qr-bitcoin.png"
                 alt="donation wallet address"
                 />
             </div>
@@ -851,8 +851,8 @@ document.addEventListener("DOMContentLoaded", () => {
     let selectedCrypto = {
         id: 'bitcoin',      // CoinGecko id
         symbol: 'BTC',      // Symbol for display
-        path: 'img/bitcoin-logo.png',
-        qrCode: 'img/qr-bitcoin.png',
+        path: '../assets/images/bitcoin-logo.png',
+        qrCode: '../assets/images/qr-bitcoin.png',
         address: 'bc1q6t3hvau4akptdjjvlaja3g68w4tagqsckm4t86',
         alt: 'btc',
         name: 'Bitcoin',    // Name for display
@@ -866,13 +866,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // This is the mapping template
     const cryptoOptionsMap = {
-        "Bitcoin (BTC)": { name: 'Bitcoin', symbol: "BTC", id: "bitcoin", path: 'img/bitcoin-logo.png', qrCode: 'img/qr-bitcoin.png', address: 'bc1q6t3hvau4akptdjjvlaja3g68w4tagqsckm4t86', blockchain: 'Bitcoin', alt: "btc", decimals: 8 },
-        "Binance (BNB)": { name: 'Binance', symbol: "BNB", id: "binancecoin", path: 'img/bnb-logo.png', qrCode: 'img/qr-bnb.png', address: '0xf7Ba10625DB3BB5bA9B260C1f43E0E6669335354', blockchain: 'BNB Chain', alt: "bnb", decimals: 8 },
-        "Ethereum (ETH)": { name: 'Ethereum', symbol: "ETH", id: "ethereum", path: 'img/ethereum-logo.png', qrCode: 'img/qr-ethereum.png', address: '0xf7Ba10625DB3BB5bA9B260C1f43E0E6669335354', blockchain: 'Ethereum', alt: "eth", decimals: 8 },
-        "Solana (SOL)": { name: 'Solana', symbol: "SOL", id: "solana", path: 'img/solana-logo.webp', qrCode: 'img/qr-solana.png', address: '5ZUqg8UP2H6vsgkQp4JJFc3wy5TBYEzNNrHRWC72A8kp', blockchain: 'Solana', alt: "sol", decimals: 8 },
-        "USD Coin (USDC) ERC-20": { name: 'USD Coin', symbol: "USDC", id: "usd-coin", path: 'img/usdc-logo.png', qrCode: 'img/qr-usdc.png', address: '0xf7Ba10625DB3BB5bA9B260C1f43E0E6669335354', blockchain: 'Ethereum', alt: "usdc", decimals: 8 },
-        "Tether (USDT) ERC-20": { name: 'Tether', symbol: "USDT", id: "tether", path: 'img/tether-logo.webp', qrCode: 'img/qr-tether.png', address: '0xf7Ba10625DB3BB5bA9B260C1f43E0E6669335354', blockchain: 'Ethereum', alt: "usdt", decimals: 8 },
-        "XRP (XRP)": { name: 'Ripple', symbol: "XRP", id: "ripple", path: 'img/xrp-logo.png', qrCode: 'img/qr-xrp.png', address: 'rKr97GQ6MsqAuQNuPwjupYFsayESjawpP1', blockchain: 'XRP Ledger', alt: "xrp", decimals: 8 },
+        "Bitcoin (BTC)": { name: 'Bitcoin', symbol: "BTC", id: "bitcoin", path: '../assets/images/bitcoin-logo.png', qrCode: '../assets/images/qr-bitcoin.png', address: 'bc1q6t3hvau4akptdjjvlaja3g68w4tagqsckm4t86', blockchain: 'Bitcoin', alt: "btc", decimals: 8 },
+        "Binance (BNB)": { name: 'Binance', symbol: "BNB", id: "binancecoin", path: '../assets/images/bnb-logo.png', qrCode: '../assets/images/qr-bnb.png', address: '0xf7Ba10625DB3BB5bA9B260C1f43E0E6669335354', blockchain: 'BNB Chain', alt: "bnb", decimals: 8 },
+        "Ethereum (ETH)": { name: 'Ethereum', symbol: "ETH", id: "ethereum", path: '../assets/images/ethereum-logo.png', qrCode: '../assets/images/qr-ethereum.png', address: '0xf7Ba10625DB3BB5bA9B260C1f43E0E6669335354', blockchain: 'Ethereum', alt: "eth", decimals: 8 },
+        "Solana (SOL)": { name: 'Solana', symbol: "SOL", id: "solana", path: '../assets/images/solana-logo.webp', qrCode: '../assets/images/qr-solana.png', address: '5ZUqg8UP2H6vsgkQp4JJFc3wy5TBYEzNNrHRWC72A8kp', blockchain: 'Solana', alt: "sol", decimals: 8 },
+        "USD Coin (USDC) ERC-20": { name: 'USD Coin', symbol: "USDC", id: "usd-coin", path: '../assets/images/usdc-logo.png', qrCode: '../assets/images/qr-usdc.png', address: '0xf7Ba10625DB3BB5bA9B260C1f43E0E6669335354', blockchain: 'Ethereum', alt: "usdc", decimals: 8 },
+        "Tether (USDT) ERC-20": { name: 'Tether', symbol: "USDT", id: "tether", path: '../assets/images/tether-logo.webp', qrCode: '../assets/images/qr-tether.png', address: '0xf7Ba10625DB3BB5bA9B260C1f43E0E6669335354', blockchain: 'Ethereum', alt: "usdt", decimals: 8 },
+        "XRP (XRP)": { name: 'Ripple', symbol: "XRP", id: "ripple", path: '../assets/images/xrp-logo.png', qrCode: '../assets/images/qr-xrp.png', address: 'rKr97GQ6MsqAuQNuPwjupYFsayESjawpP1', blockchain: 'XRP Ledger', alt: "xrp", decimals: 8 },
     }
 
     // Format numbers for display
