@@ -184,17 +184,9 @@ document.addEventListener("DOMContentLoaded", () => {
                                             <img src="../assets/images/solana-logo.webp" alt="sol" class="css-xkpa2e-icon" style="margin-right: 8px;">
                                             Solana (SOL)
                                         </div>
-                                        <div role="option" id=":r0:-option-4" class="MuiAutocomplete-option">
-                                            <img src="../assets/images/usdc-logo.png" alt="usdc" class="css-xkpa2e-icon" style="margin-right: 8px;">
-                                            USD Coin (USDC) ERC-20
-                                        </div>
                                         <div role="option" id=":r0:-option-5" class="MuiAutocomplete-option">
                                             <img src="../assets/images/tether-logo.webp" alt="usdt" class="css-xkpa2e-icon" style="margin-right: 8px;">
                                             Tether (USDT) ERC-20
-                                        </div>
-                                        <div role="option" id=":r0:-option-6" class="MuiAutocomplete-option">
-                                            <img src="../assets/images/xrp-logo.png" alt="xrp" class="css-xkpa2e-icon" style="margin-right: 8px;">
-                                            XRP (XRP)
                                         </div>
                                     </div>
                                     <button class="MuiButton-root MuiButton-contained MuiButton-containedPrimary css-1e6y48t" style="position: absolute; top: 5px; right: 5px;">×</button>
